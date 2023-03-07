@@ -122,6 +122,23 @@
         "https://i.dummyjson.com/data/products/5/2.jpg",
         "https://i.dummyjson.com/data/products/5/3.jpg"
       ]
+    },
+    {
+      "id": 8,
+      "title": "MusiTop",
+      "description": "The keys make music instead of letters.",
+      "price": "priceless",
+      "discountPercentage": 10,
+      "rating": 3.4,
+      "stock": 10,
+      "brand": "MusicMaker",
+      "category": "laptop",
+      "thumbnail": "https://www.shutterstock.com/shutterstock/photos/11591611/display_1500/stock-photo-laptop-computer-with-keyboard-replaced-with-piano-keys-11591611.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/5/1.jpg",
+        "https://i.dummyjson.com/data/products/5/2.jpg",
+        "https://i.dummyjson.com/data/products/5/3.jpg"
+      ]
     }
   ],
   "total": 100,
