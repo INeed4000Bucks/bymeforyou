@@ -105,7 +105,24 @@
         "https://i.dummyjson.com/data/products/6/3.png",
         "https://i.dummyjson.com/data/products/6/4.jpg"
       ]
-    }
+    },
+    {
+      "id": 7,
+      "title": "DynoPhone",
+      "description": "A phone from the past, reconect and rediscover you roots and what it means to be human.",
+      "price": 1500,
+      "discountPercentage": 2,
+      "rating": 3.95,
+      "stock": 200,
+      "brand": "Dyno",
+      "category": "phone",
+      "thumbnail": "https://kottke.org/plus/misc/images/caveman-phone.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/5/1.jpg",
+        "https://i.dummyjson.com/data/products/5/2.jpg",
+        "https://i.dummyjson.com/data/products/5/3.jpg"
+      ]
+    },
   ],
   "total": 100,
   "skip": 0,
